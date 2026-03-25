@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "PARAMNESIA",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-25T11:41:32.431053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Cave (Paramnesia)",
+      "artist": "Holy Moses",
+      "has_synced": false,
+      "path": "select/01_The_Cave_(Paramnesia)_Holy_Moses.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paramnesia",
+      "artist": "Ceterum",
+      "has_synced": true,
+      "path": "select/02_Paramnesia_Ceterum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paramnesia",
+      "artist": "Sentencia",
+      "has_synced": true,
+      "path": "select/03_Paramnesia_Sentencia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paramnesia",
+      "artist": "Thief",
+      "has_synced": true,
+      "path": "select/04_Paramnesia_Thief.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PARAMNESIA",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/05_PARAMNESIA_DEXCORE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paramnesia (fps)",
+      "artist": "San Venus",
+      "has_synced": true,
+      "path": "select/06_Paramnesia_(fps)_San_Venus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PARAMNESIA",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/07_PARAMNESIA_DEXCORE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paramnesia",
+      "artist": "Entities",
+      "has_synced": false,
+      "path": "select/08_Paramnesia_Entities.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paramnesia Reduplicativa",
+      "artist": ".Stendal",
+      "has_synced": true,
+      "path": "select/09_Paramnesia_Reduplicativa_.Stendal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PARAMNESIA",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_PARAMNESIA_DEXCORE.txt"
+    }
+  ]
+}
